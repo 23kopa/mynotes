@@ -1,5 +1,5 @@
 @echo off
-cd /d "C:\Users\Asus TUF Gaming\Desktop\Заметки\OTHER\LINUX"
+cd /d "C:\Users\ASUSTU~1\Desktop\Заметки\OTHER\LINUX"
 git add .
 git commit -m "Sync notes %date% %time%"
-git push oringin main
+git push origin main
