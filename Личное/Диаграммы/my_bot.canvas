@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4379d0380be3f0bd","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"my_bot"},
+		{"id":"494d95996cb3ea86","x":-180,"y":-280,"width":250,"height":60,"type":"text","text":"Логика"},
+		{"id":"a49b608f37f0a437","x":-520,"y":-140,"width":250,"height":60,"type":"text","text":"Бэкапы"},
+		{"id":"0571c50d9b9004c1","x":140,"y":-140,"width":250,"height":60,"type":"text","text":"Git "},
+		{"id":"058cd8a3a21f6ef9","x":-180,"y":0,"width":250,"height":60,"type":"text","text":"Безопасность"}
+	],
+	"edges":[
+		{"id":"c4606fe225e5fd2b","fromNode":"4379d0380be3f0bd","fromSide":"bottom","toNode":"058cd8a3a21f6ef9","toSide":"top","toEnd":"none"},
+		{"id":"a011704ffb8bcad7","fromNode":"4379d0380be3f0bd","fromSide":"top","toNode":"494d95996cb3ea86","toSide":"bottom","toEnd":"none"},
+		{"id":"533b414529f36e85","fromNode":"a49b608f37f0a437","fromSide":"right","toNode":"4379d0380be3f0bd","toSide":"left","toEnd":"none"},
+		{"id":"35e7a031a6010310","fromNode":"0571c50d9b9004c1","fromSide":"left","toNode":"4379d0380be3f0bd","toSide":"right","toEnd":"none"}
+	]
+}

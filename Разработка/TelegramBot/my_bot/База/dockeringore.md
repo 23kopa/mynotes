@@ -1,0 +1,10 @@
+```
+__pycache__
+work_venv/
+*.pyc
+*.pyo
+*.pyd
+*.log
+data/
+tests/
+```

@@ -1,0 +1,1 @@
+https://cloud.obit.ru/instructions/ustanovka-i-ispolzovanie-openvas-gvm-na-ubuntu/

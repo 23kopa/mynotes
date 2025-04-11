@@ -1,0 +1,4 @@
+```sh
+sudo su
+netbeans
+```
