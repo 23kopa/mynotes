@@ -7,30 +7,6 @@
 📁 Структура
 
 ```
-├───.obsidian
-│   ├───icons
-│   ├───plugins
-│   │   ├───buttons
-│   │   ├───calendar
-│   │   ├───code-styler
-│   │   │   └───reference-files
-│   │   ├───highlightr-plugin
-│   │   ├───hotkey-helper
-│   │   ├───hotkeysplus-obsidian
-│   │   ├───obsidian-banners
-│   │   ├───obsidian-emoji-toolbar
-│   │   ├───obsidian-excalidraw-plugin
-│   │   ├───obsidian-git
-│   │   ├───obsidian-icon-folder
-│   │   ├───obsidian-kanban
-│   │   ├───obsidian-mind-map
-│   │   ├───obsidian-style-settings
-│   │   └───table-editor-obsidian
-│   ├───snippets
-│   └───themes
-│       ├───Material Gruvbox
-│       ├───Obsidianite
-│       └───Prism
 ├───Личное
 │   ├───Диаграммы
 │   ├───Задачи
