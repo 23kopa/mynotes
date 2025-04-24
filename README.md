@@ -8,6 +8,7 @@
 
 <details>
 <summary>📁 Личное</summary>
+
 ```
 ├───Личное
 │   ├───Диаграммы
@@ -18,10 +19,12 @@
 │   ├───Черновики
 │   └───Чертежи
 ```
+
 </details>
 
 <details>
 <summary>📁 Мануалы</summary>
+
 ```
 ├───Мануалы
 │   ├───Android
@@ -68,10 +71,12 @@
 │       ├───Python
 │       └───Rust
 ```
+
 </details>
 
 <details>
 <summary>📁 Разработка</summary>
+
 ```
 └───Разработка
     ├───CanaryTokens
@@ -86,6 +91,7 @@
     │       └───Доп. файлы
     └───Парсер
 ```
+
 </details>
 
 ---
