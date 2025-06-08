@@ -38,6 +38,12 @@ Your Admin Webpage login password is W35eu1d1
 - Веб-интерфейс доступен по адресу:  
     [http://pi.hole/admin](http://pi.hole/admin) или http://192.168.0.101/admin
 - Пароль для входа в админку: `W35eu1d1`.
+
+Остановка
+```bash
+sudo systemctl stop pihole-FTL
+sudo systemctl disable pihole-FTL
+```
 ***
 #### cloudflared
 1. Скачиваем и устанавливаем `cloudflared`
@@ -93,4 +99,8 @@ sudo systemctl status cloudflared
 dig pi-hole.net @127.0.0.1 -p 5053
 ```
 
-~~ыфв~~
+Остановка
+```bash
+sudo systemctl stop cloudflared
+sudo systemctl disable cloudflared
+```
